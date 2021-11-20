@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jakmas4188
+- 👀 I’m interested in IT and cloud computing, mainly AWS.
+- 🌱 I’m currently learning Python
